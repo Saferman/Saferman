@@ -1,5 +1,7 @@
 ### 👋 Hi, I'm Saferman
 
+<img align="right" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Saferman&theme=dracula">
+
 > 热爱研究人工智能、网络安全前沿技术，有丰富的相关经历，开发能力强。
 
 <img align="right" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Saferman&theme=dracula">
